@@ -1,0 +1,4 @@
+PySide6
+pyodbc
+python-dotenv
+bcrypt
